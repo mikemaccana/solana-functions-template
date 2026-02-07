@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> Switchboard functions is deprecated and no longer operational.
+
+
 <div align="center">
   <img src="https://github.com/switchboard-xyz/sbv2-core/raw/main/website/static/img/icons/switchboard/avatar.png" />
 
